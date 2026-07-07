@@ -1,0 +1,29 @@
+{
+  "identifier": "detourlog",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "2.99",
+      "familyShareable": false,
+      "internalID": "detourlog_pro",
+      "localizations": [
+        {
+          "description": "Unlimited detours, route notes, and repeat-route warnings.",
+          "displayName": "Roadwork Detour Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "detourlog_pro",
+      "referenceName": "Roadwork Detour Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {
+    "_askToBuyEnabled": false
+  },
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
